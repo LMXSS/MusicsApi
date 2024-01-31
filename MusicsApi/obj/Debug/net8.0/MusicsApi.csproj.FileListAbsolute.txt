@@ -1,0 +1,14 @@
+C:\Users\Gabriel Lamas\Desktop\Projects\Pessoal\MusicsApi\MusicsApi\bin\Debug\net8.0\MusicsApi.exe
+C:\Users\Gabriel Lamas\Desktop\Projects\Pessoal\MusicsApi\MusicsApi\bin\Debug\net8.0\MusicsApi.deps.json
+C:\Users\Gabriel Lamas\Desktop\Projects\Pessoal\MusicsApi\MusicsApi\bin\Debug\net8.0\MusicsApi.runtimeconfig.json
+C:\Users\Gabriel Lamas\Desktop\Projects\Pessoal\MusicsApi\MusicsApi\bin\Debug\net8.0\MusicsApi.dll
+C:\Users\Gabriel Lamas\Desktop\Projects\Pessoal\MusicsApi\MusicsApi\bin\Debug\net8.0\MusicsApi.pdb
+C:\Users\Gabriel Lamas\Desktop\Projects\Pessoal\MusicsApi\MusicsApi\obj\Debug\net8.0\MusicsApi.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Gabriel Lamas\Desktop\Projects\Pessoal\MusicsApi\MusicsApi\obj\Debug\net8.0\MusicsApi.AssemblyInfoInputs.cache
+C:\Users\Gabriel Lamas\Desktop\Projects\Pessoal\MusicsApi\MusicsApi\obj\Debug\net8.0\MusicsApi.AssemblyInfo.cs
+C:\Users\Gabriel Lamas\Desktop\Projects\Pessoal\MusicsApi\MusicsApi\obj\Debug\net8.0\MusicsApi.csproj.CoreCompileInputs.cache
+C:\Users\Gabriel Lamas\Desktop\Projects\Pessoal\MusicsApi\MusicsApi\obj\Debug\net8.0\MusicsApi.dll
+C:\Users\Gabriel Lamas\Desktop\Projects\Pessoal\MusicsApi\MusicsApi\obj\Debug\net8.0\refint\MusicsApi.dll
+C:\Users\Gabriel Lamas\Desktop\Projects\Pessoal\MusicsApi\MusicsApi\obj\Debug\net8.0\MusicsApi.pdb
+C:\Users\Gabriel Lamas\Desktop\Projects\Pessoal\MusicsApi\MusicsApi\obj\Debug\net8.0\MusicsApi.genruntimeconfig.cache
+C:\Users\Gabriel Lamas\Desktop\Projects\Pessoal\MusicsApi\MusicsApi\obj\Debug\net8.0\ref\MusicsApi.dll
