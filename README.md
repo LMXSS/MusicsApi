@@ -1,2 +1,1 @@
-# LeetCode
-Exercícios LeetCode com testes em XUnit
+# API Desenvolvida no Curso Alura
